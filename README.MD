@@ -86,6 +86,8 @@ Welcome to this list of project ideas for full-stack developers. Whether you're 
 48. Natural Language Processing (NLP) Tool
 49. Sales Forecasting App
 50. Data Annotation and Labeling Tool
+51. Spam Email Detection
+52. Weather Forecasting
 
 ## IoT and Hardware Projects
 
